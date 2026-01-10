@@ -1,6 +1,6 @@
 # 🎣 Mending Mancing - Web Based Fishing Simulator
 
-![Mending Mancing Banner](screenshots/dashboard.png)
+![Mending Mancing Banner](screenshots/Dashboard.png)
 
 > *"Lupakan bug kodemu, mari tangkap Ikan Legendaris!"*
 
@@ -35,17 +35,17 @@
 
 | Dashboard & Event | Peta Dunia |
 |:---:|:---:|
-| ![Dashboard](screenshots/dashboard.png) | ![Map](screenshots/map.png) |
+| ![Dashboard](screenshots/Dashboard.png) | ![Map](screenshots/Map.png) |
 | *Tampilan Dashboard dengan Live Ticker* | *Sistem Unlock Map dengan Diamond* |
 
 | Gameplay Memancing | Tas & Filter |
 |:---:|:---:|
-| ![Fishing](screenshots/fishing.png) | ![Inventory](screenshots/inventory.png) |
+| ![Fishing](screenshots/fishing.png) | ![Inventory](screenshots/Inventory.png) |
 | *Visualisasi saat mendapatkan Ikan Legendary* | *Manajemen Inventory dengan Filter AJAX* |
 
 | Toko & Pasar P2P | Profil Pemain |
 |:---:|:---:|
-| ![Shop](screenshots/shop.png) | ![Profile](screenshots/profile.png) |
+| ![Shop](screenshots/Pasar_Ikan.png) | ![Profile](screenshots/Profile.png) |
 | *Fitur Jual Beli antar Player* | *Showcase Prestasi & Koleksi* |
 
 ---
