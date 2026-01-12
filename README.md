@@ -1,6 +1,6 @@
-![http://mending-mancing.infinityfree.me/?i=1]
+# [Mainkan **Mending Mancing** Sekarang!](http://mending-mancing.infinityfree.me/?i=1)
 
-!(https://www.youtube.com/watch?v=C9W1MtP6U34)
+# [Demo Video](https://www.youtube.com/watch?v=C9W1MtP6U34)
 
 # 🎣 Mending Mancing - Web Based Fishing Simulator
 
